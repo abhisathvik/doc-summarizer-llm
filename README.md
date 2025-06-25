@@ -78,5 +78,7 @@ Thanks to:
 
 # ✨ Contact
 Built by Abhi Sathvik Reddy
+
 GitHub: @abhisathvik
+
 LinkedIn: https://www.linkedin.com/in/abhi-sathvik-reddy-aniga-a7b15b256/
