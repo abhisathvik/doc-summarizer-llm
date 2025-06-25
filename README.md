@@ -32,15 +32,15 @@ doc-summarizer-llm/
 
 │
 
-├── app.py                     # Streamlit UI
+├── app.py                      # Streamlit UI
 
-├── pdf_qa.py                  # Core LangChain logic
+├── pdf_qa.py                   # Core LangChain logic
 
-├── utils.py                   # PDF loading & chunking
+├── utils.py                    # PDF loading & chunking
 
-├── .env                       # API keys
+├── .env                        # API keys
 
-├── requirements.txt           # For deployment
+├── requirements.txt            # For deployment
 
 └── README.md
 
