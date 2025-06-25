@@ -38,8 +38,6 @@ doc-summarizer-llm/
 
 ├── utils.py                    # PDF loading & chunking
 
-├── .env                        # API keys
-
 ├── requirements.txt            # For deployment
 
 └── README.md
